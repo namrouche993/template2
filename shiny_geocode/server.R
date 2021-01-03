@@ -1,9 +1,6 @@
 
 library("shiny")
 library("tidyverse")
-library("readxl")
-library("rworldmap")
-library("ggmap")
 
 # Define server logic
 server <- function(input, output) {
